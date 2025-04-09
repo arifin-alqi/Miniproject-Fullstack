@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Film | IMDb Style Profile</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">IMDb</div>
+    <nav class="nav-links">
+      <a href="#">Home</a>
+      <a href="https://www.imdb.com/chart/top/">Top 250</a>
+      <a href="#">Genres</a>
+      <a href="#">About</a>
+    </nav>
+  </header>
+
+  <div class="container">
+    <div class="profile">
+      <h1>Internet Movie Database</h1>
+      <h2>Film Enthusiast and Web Developer</h2>
+      <p>Film merupakan sebuah seni yang istimewa, dengan menggambarkan kisah hidup seseorang dalam sebuah cerita yang menarik dan memiliki makna. Film juga bisa memberikan sebuah inspirasi dan motivasi. <span class="highlight">Film juga bisa memberikan sebuah motivasi.</span></p>
+      <p>Ranking, IMDb, IMDb Top 250 Film</p>
+      <a href="https://www.imdb.com" target="_blank">
+        <button class="btn">Silahkan Kunjungi</button>
+      </a>
+    </div>
+    <div class="image">
+      <img src="removed-background.png" alt="Profile Photo">
+    </div>
+  </div>
+</body>
+</html>
