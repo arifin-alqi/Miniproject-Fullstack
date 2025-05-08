@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>Tentang Kami | IMDb Style</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="navbar">
+    <div class="logo">IMDb</div>
+    <nav class="nav-links">
+      <a href="cp.html">Home</a>
+      <a href="https://www.imdb.com/chart/top/">Top 250</a>
+      <a href="#">Genres</a>
+    </nav>
+  </header>
+
+  <main class="container">
+    <section class="profile">
+      <h1>Tentang Kami</h1>
+      <p>Imdb adalah sebuah web yang menyediakan informasi tentang film dan serial film agar bisa memberikan rekomendassi film terbaik, juga mendata film mana yang saat ini lebih populer dengan memberikan rating di setiap film yang baru hadir diseluruh dunia.</p>
+      <p>IMDb jugandibuat sebagai latihan sekaligus apresiasi terhadap dunia perfilman.</p>
+    </section>
+  </main>
+</body>
+</html>
